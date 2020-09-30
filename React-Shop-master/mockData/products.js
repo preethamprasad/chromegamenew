@@ -4,6 +4,42 @@ export const products = [{
 }, 
                           {
     name: "Tomatoes",
+                                  name: "Tomatoes",
+    image: "https://gdg-react-workshop.s3.amazonaws.com/tomato.JPG"
+},{
+    name: "Bread",
+    image: "https://gdg-react-workshop.s3.amazonaws.com/bread.JPG"
+}, {
+    name: "Breakfast cereal",
+    image: "https://gdg-react-workshop.s3.amazonaws.com/cereal.JPG"
+}, {
+    name: "Butter",
+    image: "https://gdg-react-workshop.s3.amazonaws.com/butter.JPG"
+}, {
+        name: "Tomatoes",
+    image: "https://gdg-react-workshop.s3.amazonaws.com/tomato.JPG"
+},{
+    name: "Bread",
+    image: "https://gdg-react-workshop.s3.amazonaws.com/bread.JPG"
+}, {
+    name: "Breakfast cereal",
+    image: "https://gdg-react-workshop.s3.amazonaws.com/cereal.JPG"
+}, {
+    name: "Butter",
+    image: "https://gdg-react-workshop.s3.amazonaws.com/butter.JPG"
+}, {
+        name: "Tomatoes",
+    image: "https://gdg-react-workshop.s3.amazonaws.com/tomato.JPG"
+},{
+    name: "Bread",
+    image: "https://gdg-react-workshop.s3.amazonaws.com/bread.JPG"
+}, {
+    name: "Breakfast cereal",
+    image: "https://gdg-react-workshop.s3.amazonaws.com/cereal.JPG"
+}, {
+    name: "Butter",
+    image: "https://gdg-react-workshop.s3.amazonaws.com/butter.JPG"
+}, {
     image: "https://gdg-react-workshop.s3.amazonaws.com/tomato.JPG"
 },
                           {
